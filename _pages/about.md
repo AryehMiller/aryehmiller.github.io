@@ -8,9 +8,9 @@ profile:
   align: right
   image: Bio_Miller_A-1013376.jpg
   address: >
-    <p>style="font-size: smaller;"Smithonian NMNH</p>
-    <p>style="font-size: smaller;"Department of Vertebrate Zoology</p>
-    <p>style="font-size: smaller;"Washington, D.C.</p>
+    <p> style="font-size: 0.9rem;">Smithonian NMNH</p>
+    <p> style="font-size: 0.9rem;">Department of Vertebrate Zoology</p>
+    <p> style="font-size: 0.9rem;">Washington, D.C.</p>
 
 social: true  # includes social icons at the bottom of the page
 ---
