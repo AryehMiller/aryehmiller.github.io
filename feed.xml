@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://aryehmiller.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aryehmiller.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-03-20T14:44:16+00:00</updated><id>https://aryehmiller.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">NPR STL Interview</title><link href="https://aryehmiller.github.io/blog/2021/NPR-STL-Interview/" rel="alternate" type="text/html" title="NPR STL Interview" /><published>2021-08-18T16:40:16+00:00</published><updated>2021-08-18T16:40:16+00:00</updated><id>https://aryehmiller.github.io/blog/2021/NPR-STL-Interview</id><content type="html" xml:base="https://aryehmiller.github.io/blog/2021/NPR-STL-Interview/"><![CDATA[<p>I was invited on to St. Louis National Public Radio to discuss a recent study I led (<a href="https://academic.oup.com/sysbio/article-abstract/71/1/139/6295694?redirectedFrom=fulltext">published in Systematic Biology</a>) on the evolution of arboreality in lizards. The interview, and corresponding article, is available <a href="https://news.stlpublicradio.org/show/st-louis-on-the-air/2021-08-18/wash-u-biologist-explains-how-lizards-evolved-for-specialized-life-in-trees">on the St. Louis Public Radio website</a>.</p>
+
+<hr />
+
+<blockquote>
+    <a href="https://news.stlpublicradio.org/show/st-louis-on-the-air/2021-08-18/wash-u-biologist-explains-how-lizards-evolved-for-specialized-life-in-trees">Wash U Biologist Explains How Lizards Evolved For Specialized Life In Trees</a>.
+    — St. Louis Public Radio | By Lara Hamdan
+</blockquote>
+
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/NPR_STL_jpg-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/NPR_STL_jpg-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/NPR_STL_jpg-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/NPR_STL_jpg.jpg" />
+
+  </picture>
+
+</figure>]]></content><author><name></name></author><category term="sample-posts" /><category term="lizards" /><category term="adaptation" /><summary type="html"><![CDATA[Radio interview with St. Louis Public Radio on recent research]]></summary></entry><entry><title type="html">Discovery of a new snake species</title><link href="https://aryehmiller.github.io/blog/2021/diagrams/" rel="alternate" type="text/html" title="Discovery of a new snake species" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://aryehmiller.github.io/blog/2021/diagrams</id><content type="html" xml:base="https://aryehmiller.github.io/blog/2021/diagrams/"><![CDATA[<p>During the summer of 2019, I conducted an expedition to remote, biologically unexplored areas of Vietnam with colleagues from the University of North Carolina Asheville, University of Washington, and the Institute for Ecology and Biological Resources (Vietnam Academy of Science and Technology) as part of a Global Genome Initiative award to assess amphibian and reptile diversity in the northern reaches of the country. On the last night of field work in Ha Giang Province, which sits on the Vietnam-China border, we encountered a small, iridescent black snake on road. As northern Vietnam hosts a wide array of biotic diversity, especially snakes, even seasoned naturalists might have difficulty correctly identifying all taxa encountered. Based on the distinctive scale morphology, we determined the species belonged to the family Xenodermidae– commonly known as odd-scaled snakes. Later that evening, upon further examination of the specimen, we identified it to be a member of the exceedingly poorly known genus Achalinus, a group of &lt;15 species known only from east Asia.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/AchalinusHeadLateral2-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/AchalinusHeadLateral2-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/AchalinusHeadLateral2-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/AchalinusHeadLateral2.jpg" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Zugs' Odd-scaled Snake (Miller et al. 2020).
+</div>
+
+<p>When I returned to the Laboratories of Analytical Biology at the National Museum of Natural History, I was promptly able to sequence the DNA of the specimen from a tissue sample, which told us it belongs to a previously undescribed lineage. Consequently, colleagues and I described this new species as Achalinus zugorum, with the epithet honoring Dr. George R. Zug, retired curator of amphibians and reptiles at the National Museum of Natural History, and Patricia Zug, George’s wife and fellow herpetological enthusiast. Both George and Pat have been close colleagues, friends, and mentors to me over the past few years, and this naming honors both their contributions to the field and their mentorship of young scientists.</p>
+
+<p>Little is known about the ecology, biology, and fundamental natural history of this species, making it one of the most poorly known reptiles in the world. We can infer a couple of things about the ecology and natural history of this species from anatomical clues. First, snakes of the genus Achalinus lack retinal cones, which are typically associated with bright-light vision, leading us to believe this is a nocturnal species that at least occupies the leaf-litter interface, if not being an entirely fossorial or subterranean species drawn out occasionally by heavy rains. Indeed, fossoriality has been reported in a handful of Achalinus previously. Second, the dentition of Achalinus zugorum, consisting of equally sized, curved maxillary teeth with lingual ridges tells us that this species likely consumes soft-bodied prey, such as earthworms.</p>
+
+<p>The manuscript was published in the journal <em>Copeia</em>.</p>
+
+<p><strong>Publications:</strong></p>
+<div class="publications">
+  <ol class="bibliography"></ol>
+</div>
+
+<div class="publications">
+  <ol class="bibliography"></ol>
+</div>
+
+<p>Media coverage of this research: <a href="https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2020/12/07/rare-iridescent-snake-discovered-vietnam/">Smithsonian Magazine</a>, <a href="https://www.cnn.com/2020/12/09/asia/vietnam-snake-discovered-intl-hnk-scli-scn/index.html">CNN</a>, <a href="https://www.independent.co.uk/news/science/iridescent-snake-species-new-vietnam-b1768822.html">The Independent</a>, <a href="https://www.ajc.com/news/new-species-of-color-shifting-snake-discovered-in-vietnam/KGZRSKD53NFKLIVYJOJC6XDJF4/">AJC</a>, <a href="https://southeastasiaglobe.com/karst-forest-limestone-mining-vietnam/">Southeast Asia Glove</a>, <a href="https://reptilesmagazine.com/new-species-of-odd-scaled-snake-discovered-in-vietnam/">Reptiles Magazine</a></p>
+
+<p>More photographs of <em>Achalinus zugorum</em>.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/AchalinusHeadDorsal1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/AchalinusHeadDorsal1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/AchalinusHeadDorsal1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/AchalinusHeadDorsal1.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/AchalinusHeadVentral1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/AchalinusHeadVentral1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/AchalinusHeadVentral1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/AchalinusHeadVentral1.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/AchalinusHeadLateral1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/AchalinusHeadLateral1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/AchalinusHeadLateral1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/AchalinusHeadLateral1.jpg" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Discovering Zugs' Odd-scaled Snake]]></summary></entry></feed>
