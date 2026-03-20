@@ -6,7 +6,7 @@ subtitle: Peter Buck Postdoctoral Fellow at the NMNH
 
 profile:
   align: right
-  image: Bio_Miller_A-1013376.jpg
+  image: Bio_Miller_A-1013376_smaller.jpeg
   address: >
     <p style="font-size: 0.7rem;">Smithsonian National Museum of Natural History</p>
     <p style="font-size: 0.7rem;">Department of Vertebrate Zoology</p>
